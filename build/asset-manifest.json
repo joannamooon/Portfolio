@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b20bb303.css",
+    "main.js": "/static/js/main.44345d5c.js",
+    "static/media/carpoint.png": "/static/media/carpoint.de20f0a1e4d9b24bea2a.png",
+    "static/media/mci.png": "/static/media/mci.d1bcfeeb3491ba3c1a1a.png",
+    "static/media/cochl.png": "/static/media/cochl.8adfb33a9306fbfd12cf.png",
+    "static/media/remote.png": "/static/media/remote.750c489017040402e98a.png",
+    "static/media/ET.png": "/static/media/ET.c6aada0cc1c63fec0b70.png",
+    "static/media/reddit.png": "/static/media/reddit.3ab83037c62d1858efe5.png",
+    "static/media/IEUM.png": "/static/media/IEUM.abe2d0d2e5238a4b8aa3.png",
+    "static/media/teachyou.png": "/static/media/teachyou.c1d433f9023f0736ff4d.png",
+    "static/media/youtube.png": "/static/media/youtube.903fb1a36a9ac3153d42.png",
+    "static/media/books.png": "/static/media/books.2027b40ae8c292dc6174.png",
+    "static/media/shl.png": "/static/media/shl.ff97828ebd720cb27956.png",
+    "static/media/multi.png": "/static/media/multi.8bf92cf3c9b8f6090ce9.png",
+    "static/media/h2o.png": "/static/media/h2o.d8ce35422f5c9c477b63.png",
+    "index.html": "/index.html",
+    "static/media/blob.svg": "/static/media/blob.316fef3e1aab26a68c91.svg",
+    "main.b20bb303.css.map": "/static/css/main.b20bb303.css.map",
+    "main.44345d5c.js.map": "/static/js/main.44345d5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b20bb303.css",
+    "static/js/main.44345d5c.js"
+  ]
+}
